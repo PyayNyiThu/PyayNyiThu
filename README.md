@@ -1,3 +1,5 @@
+![Cover Photo](https://github.com/PyayNyiThu/PyayNyiThu/blob/main/msg926968483-32978.jpg)
+
 <h1 align="center">Hi 👋, I'm Pyay Nyi Thu</h1>
 <h3 align="center">Web Developer</h3>
 

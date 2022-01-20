@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **https://www.facebook.com/pyaenyi.thu**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyayNyiThu&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pyay-nyi-thu-4634831b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pyay-nyi-thu-4634831b1" height="30" width="40" /></a>
@@ -24,7 +26,6 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyaynyithu&show_icons=true&locale=en&layout=compact" alt="pyaynyithu" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyayNyiThu&show_icons=true&theme=tokyonight)
 </p>
 
 
